@@ -1,0 +1,17 @@
+{
+  "name": "SeaFight",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "co-fs": "^1.2.0",
+    "co-render": "^1.1.0",
+    "htmling": "0.0.7",
+    "koa": "1.1.2",
+    "koa-router": "^5.3.0",
+    "koa-static": "^2.0.0"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-develop-server": "^0.5.0"
+  }
+}
